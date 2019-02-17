@@ -1,5 +1,5 @@
 [![Crates.io](https://img.shields.io/crates/v/serde-json-helpers.svg)](https://crates.io/crates/serde-json-helpers)
-[![Build Status](https://circleci.com/gh/holmesmr/serde-json-helpers/tree/master.svg?style=shield)](https://circleci.com/gh/holmesmr/serde-json-helpers/cargo-readme/tree/master)
+[![Build Status](https://circleci.com/gh/holmesmr/serde-json-helpers/tree/master.svg?style=shield)](https://circleci.com/gh/holmesmr/serde-json-helpers/tree/master)
 
 # serde-json-helpers
 
