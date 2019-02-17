@@ -73,13 +73,13 @@ mod string_transform;
 /// * `transform = "<type>"` - transform the `enum` variants by name into the same
 ///   formats as supported by the serde attribute `rename_all`. This includes:
 ///     * `lowercase` - makes variant names _lowercase_
-///     * `uppercase` - makes variant names _UPPERCASE_
-///     * `pascal_case` - makes variant names _PascalCase_
-///     * `camel_case` - makes variant names _camelCase_
+///     * `UPPERCASE` - makes variant names _UPPERCASE_
+///     * `PascalCase` - makes variant names _PascalCase_
+///     * `camelCase` - makes variant names _camelCase_
 ///     * `snake_case` - makes variant names _snake\_case_
-///     * `screaming_snake_case` - makes variant names _SCREAMING\_SNAKE\_CASE_
-///     * `kebab_case` - makes variant names _snake\_case_
-///     * `screaming_snake_case` - makes variant names _SCREAMING\_SNAKE\_CASE_
+///     * `SCREAMING_SNAKE_CASE` - makes variant names _SCREAMING\_SNAKE\_CASE_
+///     * `kebab-case` - makes variant names _kebab-case_
+///     * `SCREAMING-KEBAB-CASE` - makes variant names _SCREAMING-KEBAB-CASE_
 ///
 ///   If unspecified, the `enum` variant names will be passed through unmodified.
 ///

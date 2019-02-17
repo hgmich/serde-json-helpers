@@ -1,6 +1,6 @@
 [package]
 name = "serde-json-helpers"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["Michael Holmes <706183+holmesmr@users.noreply.github.com>"]
 edition = "2018"
 description = "A collection of procedural macros compatible with stable Rust 2018 that simplify some common operations not covered by `serde_derive`."
