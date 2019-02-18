@@ -29,7 +29,7 @@ impl StringTransform {
     }
 
     pub(crate) fn transform<S: ToString>(&self, input: S) -> String {
-        use StringTransform::*;
+        use self::StringTransform::*;
 
         let input_string = input.to_string();
 
